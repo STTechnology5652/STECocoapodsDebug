@@ -1,0 +1,12 @@
+[submodule "CocoaPods"]
+	path = CocoaPods
+	url = https://github.com/CocoaPods/CocoaPods.git
+[submodule "cocoapods-bin"]
+	path = cocoapods-bin
+	url = https://github.com/tripleCC/cocoapods-bin.git
+[submodule "cocoapods-libstcx"]
+	path = cocoapods-libstcx
+	url = https://github.com/STTechnology5652/cocoapods-libstcx.git
+[submodule "STPodTemplate"]
+	path = STPodTemplate
+	url = https://github.com/STTechnology5652/STPodTemplate.git
