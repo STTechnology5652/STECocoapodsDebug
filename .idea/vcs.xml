@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CocoaPods" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/STTemplate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/STTemplate1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/STTemplate2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/STTemplate_dirty" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/STTemplate的副本" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/STtestModule" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/STtestModule2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/STtestModule_failed" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/STtestModule_oc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/STtestModule_swift" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cocoapods-bin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cocoapods-lib_stechen" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cocoapods-libstcx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cocoapods-libstepchen" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cocoapods-stlib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pod-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pod-template1" vcs="Git" />
+  </component>
+</project>
