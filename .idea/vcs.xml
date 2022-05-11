@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/CocoaPods" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/STModuleTest" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/STPodTemplate" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/STTemplate" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/STTemplate1" vcs="Git" />
