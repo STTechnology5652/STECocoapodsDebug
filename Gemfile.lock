@@ -31,7 +31,7 @@ PATH
 PATH
   remote: cocoapods-libstcx
   specs:
-    cocoapods-libstcx (0.0.1)
+    cocoapods-libstcx (0.0.3)
 
 GEM
   remote: https://rubygems.org/
