@@ -8,6 +8,7 @@ This project is a total repository of some sub projects.
 - [cocoapods-bin](https://github.com/tripleCC/cocoapods-bin.git)
 - [cocoapods-libstcx](https://github.com/STTechnology5652/cocoapods-libstcx.git)
 - [STPodTemplate](https://github.com/STTechnology5652/STPodTemplate.git)
+- [pod-template](https://github.com/CocoaPods/pod-template.git)
 
 ## Using
 

@@ -10,3 +10,6 @@
 [submodule "STPodTemplate"]
 	path = STPodTemplate
 	url = https://github.com/STTechnology5652/STPodTemplate.git
+[submodule "pod-template"]
+	path = pod-template
+	url = https://github.com/CocoaPods/pod-template.git
