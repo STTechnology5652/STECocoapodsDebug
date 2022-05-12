@@ -1,6 +1,6 @@
 # STECocoapodsDebug
 
-## Summary
+## Abstract
 
 This project is a total repository of some sub projects.
 
@@ -17,7 +17,7 @@ Use RubyMine to run this project.
 - clone project
 
 ```shell
-git clone https://github.com/STTechnology5652/STECocoapodsDebug.git
+git clone https://github.com/STTechnology5652/STECocoapodsDebug.git --verbose
 ```
 
 - clone submodule
@@ -28,4 +28,13 @@ git submodule sync
 git submodule update
 ```
 
-- open rubymine
+- prepare environment
+
+```shell
+rvm install "ruby-2.7.5" --verbose
+bundle install --verbose
+```
+
+- open RubyMine
+
+![img](docs/rubymineWindow.png)
