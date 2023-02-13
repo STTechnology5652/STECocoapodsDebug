@@ -13,3 +13,6 @@
 [submodule "pod-template"]
 	path = pod-template
 	url = https://github.com/CocoaPods/pod-template.git
+[submodule "cocoapods-yk-pod-utility"]
+	path = cocoapods-yk-pod-utility
+	url = https://github.com/stephen5652/cocoapods-yk-pod-utility.git
