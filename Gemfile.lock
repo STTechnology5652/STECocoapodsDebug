@@ -21,6 +21,11 @@ PATH
       xcodeproj (>= 1.21.0, < 2.0)
 
 PATH
+  remote: Cocoapods-pod-sign
+  specs:
+    cocoapods-pod-sign (1.3.0)
+
+PATH
   remote: cocoapods-bin
   specs:
     cocoapods-bin (0.1.30)
@@ -33,19 +38,29 @@ PATH
   specs:
     cocoapods-libstcx (0.0.4)
 
+PATH
+  remote: cocoapods-yk-pod-utility
+  specs:
+    cocoapods-yk-pod-utility (0.0.1)
+
+PATH
+  remote: cocoapods-yksign
+  specs:
+    cocoapods-yksign (0.0.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
-    CFPropertyList (3.0.5)
+    CFPropertyList (3.0.6)
       rexml
-    activesupport (6.1.5.1)
+    activesupport (6.1.7.2)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 1.6, < 2)
       minitest (>= 5.1)
       tzinfo (~> 2.0)
       zeitwerk (~> 2.3)
-    addressable (2.8.0)
-      public_suffix (>= 2.0.2, < 5.0)
+    addressable (2.8.1)
+      public_suffix (>= 2.0.2, < 6.0)
     algoliasearch (1.27.5)
       httpclient (~> 2.8, >= 2.8.3)
       json (>= 1.5.1)
@@ -62,10 +77,8 @@ GEM
       public_suffix (~> 4.0)
       typhoeus (~> 1.0)
     cocoapods-deintegrate (1.0.5)
-    cocoapods-disable-podfile-validations (0.1.1)
     cocoapods-downloader (1.6.3)
-    cocoapods-generate (1.6.0)
-      cocoapods-disable-podfile-validations (~> 0.1.1)
+    cocoapods-generate (1.4.1)
     cocoapods-plugins (1.0.0)
       nap
     cocoapods-search (1.0.1)
@@ -74,22 +87,22 @@ GEM
       netrc (~> 0.11)
     cocoapods-try (1.2.0)
     colored2 (3.1.2)
-    concurrent-ruby (1.1.10)
-    debase (0.2.4.1)
-      debase-ruby_core_source (>= 0.10.2)
-    debase-ruby_core_source (0.10.15)
+    concurrent-ruby (1.2.0)
+    debase (0.2.5.beta2)
+      debase-ruby_core_source (>= 0.10.12)
+    debase-ruby_core_source (3.2.0)
     escape (0.0.4)
-    ethon (0.15.0)
+    ethon (0.16.0)
       ffi (>= 1.15.0)
     ffi (1.15.5)
     fourflusher (2.3.1)
     fuzzy_match (2.0.4)
     gh_inspector (1.1.3)
     httpclient (2.8.3)
-    i18n (1.10.0)
+    i18n (1.12.0)
       concurrent-ruby (~> 1.0)
-    json (2.6.1)
-    minitest (5.15.0)
+    json (2.6.3)
+    minitest (5.17.0)
     molinillo (0.8.0)
     nanaimo (0.3.0)
     nap (1.1.0)
@@ -103,26 +116,30 @@ GEM
     ruby-macho (2.5.1)
     typhoeus (1.4.0)
       ethon (>= 0.9.0)
-    tzinfo (2.0.4)
+    tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
-    xcodeproj (1.21.0)
+    xcodeproj (1.22.0)
       CFPropertyList (>= 2.3.3, < 4.0)
       atomos (~> 0.1.3)
       claide (>= 1.0.2, < 2.0)
       colored2 (~> 3.1)
       nanaimo (~> 0.3.0)
       rexml (~> 3.2.4)
-    zeitwerk (2.5.4)
+    zeitwerk (2.6.6)
 
 PLATFORMS
+  arm64-darwin-22
   x86_64-darwin-21
 
 DEPENDENCIES
   cocoapods!
   cocoapods-bin!
   cocoapods-libstcx!
+  cocoapods-pod-sign!
+  cocoapods-yk-pod-utility!
+  cocoapods-yksign!
   debase
-  ruby-debug-ide (= 0.7.3)
+  ruby-debug-ide
 
 BUNDLED WITH
-   2.3.6
+   2.4.5
