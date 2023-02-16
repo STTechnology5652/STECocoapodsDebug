@@ -39,14 +39,14 @@ PATH
     cocoapods-libstcx (0.0.4)
 
 PATH
-  remote: cocoapods-yk-pod-utility
-  specs:
-    cocoapods-yk-pod-utility (0.0.1)
-
-PATH
   remote: cocoapods-yksign
   specs:
     cocoapods-yksign (0.0.1)
+
+PATH
+  remote: cocoapods-ykutility
+  specs:
+    cocoapods-ykutility (0.0.10)
 
 GEM
   remote: https://rubygems.org/
@@ -136,8 +136,8 @@ DEPENDENCIES
   cocoapods-bin!
   cocoapods-libstcx!
   cocoapods-pod-sign!
-  cocoapods-yk-pod-utility!
   cocoapods-yksign!
+  cocoapods-ykutility!
   debase
   ruby-debug-ide
 
