@@ -16,3 +16,6 @@
 [submodule "cocoapods-yk-pod-utility"]
 	path = cocoapods-yk-pod-utility
 	url = https://github.com/stephen5652/cocoapods-yk-pod-utility.git
+[submodule "cocoapods-core"]
+	path = cocoapods-core
+	url = https://github.com/CocoaPods/Core.git
