@@ -4,9 +4,12 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/CocoaPods" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/CocoaPods-pod-sign" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DebugProject/YKInternationLanguage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DebugProject/YeahPay" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/JLBusinessModule" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/STPodTemplate" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/cocoapods-bin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cocoapods-core" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/cocoapods-libstcx" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/cocoapods-yksign" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/cocoapods-ykutility" vcs="Git" />
