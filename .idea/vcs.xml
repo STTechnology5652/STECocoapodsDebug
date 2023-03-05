@@ -6,6 +6,7 @@
     <mapping directory="$PROJECT_DIR$/CocoaPods-pod-sign" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/DebugProject/YKCategoryComponent" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/DebugProject/YKInternationLanguage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DebugProject/YKModuleServiceComponent.swift" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/DebugProject/YeahPay" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/JLBusinessModule" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/STPodTemplate" vcs="Git" />
