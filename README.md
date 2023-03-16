@@ -57,6 +57,7 @@ This project is a total repository of some sub projects.
     
   - ruby mine 调试工程的时候，是通过一些列的指令实例来调试工程， 本项目已经配置了指令实例，使用方法：
     -  ruby mine 菜单选项 'Run' --> 'Run', 在弹窗选择指令实例。
+    ![](docs/rubymineWindow.png)
 
 ## Tail
 
