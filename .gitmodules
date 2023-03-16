@@ -19,3 +19,6 @@
 [submodule "cocoapods-core"]
 	path = cocoapods-core
 	url = https://github.com/CocoaPods/Core.git
+[submodule "CocoaPods-pod-sign"]
+	path = CocoaPods-pod-sign
+	url = https://github.com/1677/CocoaPods-pod-sign.git
