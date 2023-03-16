@@ -2,3 +2,5 @@
 .idea/sonarlint
 
 vendor/bundle
+
+!DebugProject/.gitkeep
