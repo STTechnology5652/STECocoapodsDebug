@@ -7,7 +7,7 @@
         <COMMAND_RUN_CONFIGURATION NAME="RUBY_ARGS" VALUE="" />
         <COMMAND_RUN_CONFIGURATION NAME="WORK DIR" VALUE="$MODULE_DIR$" />
         <COMMAND_RUN_CONFIGURATION NAME="SHOULD_USE_SDK" VALUE="true" />
-        <COMMAND_RUN_CONFIGURATION NAME="ALTERN_SDK_NAME" VALUE="asdf: 3.0.0" />
+        <COMMAND_RUN_CONFIGURATION NAME="ALTERN_SDK_NAME" VALUE="asdf: 2.7.5" />
         <COMMAND_RUN_CONFIGURATION NAME="myPassParentEnvs" VALUE="true" />
         <EXTENSION ID="BundlerRunConfigurationExtension" BUNDLE_MODE="AUTO" bundleExecEnabled="true" />
         <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
@@ -53,60 +53,60 @@
       <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/bundle" />
     </content>
-    <orderEntry type="jdk" jdkName="asdf: 3.0.0" jdkType="RUBY_SDK" />
+    <orderEntry type="jdk" jdkName="asdf: 2.7.5" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="CFPropertyList (v3.0.6, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="activesupport (v6.1.7.2, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="addressable (v2.8.1, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="algoliasearch (v1.27.5, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="atomos (v0.1.3, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="bundler (v2.4.5, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="claide (v1.1.0, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="cocoapods-deintegrate (v1.0.5, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="cocoapods-downloader (v1.6.3, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="cocoapods-generate (v1.4.1, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="cocoapods-plugins (v1.0.0, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="cocoapods-search (v1.0.1, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="cocoapods-trunk (v1.6.0, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="cocoapods-try (v1.2.0, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="colored2 (v3.1.2, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="concurrent-ruby (v1.2.0, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="debase (v0.2.5.beta2, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="debase-ruby_core_source (v3.2.0, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="escape (v0.0.4, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="ethon (v0.16.0, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="ffi (v1.15.5, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="fourflusher (v2.3.1, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="fuzzy_match (v2.0.4, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="gh_inspector (v1.1.3, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="git (v1.16.0, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="httpclient (v2.8.3, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="i18n (v1.12.0, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="jazzy (v0.14.3, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="json (v2.6.3, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="liferaft (v0.0.6, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="minitest (v5.17.0, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="molinillo (v0.8.0, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="mustache (v1.1.1, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="nanaimo (v0.3.0, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="nap (v1.1.0, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="netrc (v0.11.0, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="open4 (v1.3.4, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="parallel (v1.22.1, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="public_suffix (v4.0.7, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rake (v13.0.6, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rchardet (v1.8.0, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="redcarpet (v3.6.0, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rexml (v3.2.5, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rouge (v2.0.7, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="ruby-debug-ide (v0.7.3, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="ruby-macho (v2.5.1, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sassc (v2.4.0, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sqlite3 (v1.6.0, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="typhoeus (v1.4.0, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="tzinfo (v2.0.6, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="xcinvoke (v0.3.0, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="xcodeproj (v1.22.0, asdf: 3.0.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="zeitwerk (v2.6.6, asdf: 3.0.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="CFPropertyList (v3.0.6, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activesupport (v7.0.6, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="addressable (v2.8.4, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="algoliasearch (v1.27.5, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="atomos (v0.1.3, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v2.1.4, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="claide (v1.1.0, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="cocoapods-deintegrate (v1.0.5, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="cocoapods-disable-podfile-validations (v0.1.1, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="cocoapods-downloader (v1.6.3, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="cocoapods-generate (v1.6.0, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="cocoapods-plugins (v1.0.0, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="cocoapods-search (v1.0.1, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="cocoapods-trunk (v1.6.0, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="cocoapods-try (v1.2.0, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="colored2 (v3.1.2, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="concurrent-ruby (v1.2.2, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="debase (v2.3.9, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="debase-ruby_core_source (v0.10.18, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="escape (v0.0.4, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ethon (v0.16.0, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ffi (v1.15.5, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="fourflusher (v2.3.1, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="fuzzy_match (v2.0.4, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="gh_inspector (v1.1.3, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="git (v1.18.0, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="httpclient (v2.8.3, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="i18n (v1.14.1, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jazzy (v0.14.3, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="json (v2.6.3, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="liferaft (v0.0.6, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mini_portile2 (v2.8.4, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="minitest (v5.19.0, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="molinillo (v0.8.0, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mustache (v1.1.1, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="nanaimo (v0.3.0, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="nap (v1.1.0, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="netrc (v0.11.0, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="open4 (v1.3.4, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="parallel (v1.23.0, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="public_suffix (v4.0.7, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rchardet (v1.8.0, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="redcarpet (v3.6.0, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rexml (v3.2.6, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rouge (v3.30.0, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ruby-debug-ide (v2.3.9.1, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ruby-macho (v2.5.1, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sassc (v2.4.0, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sqlite3 (v1.6.3, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="typhoeus (v1.4.0, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tzinfo (v2.0.6, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="xcinvoke (v0.3.0, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="xcodeproj (v1.22.0, asdf: 2.7.5) [gem]" level="application" />
   </component>
 </module>
