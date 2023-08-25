@@ -28,7 +28,6 @@
     <orderEntry type="library" scope="PROVIDED" name="httpclient (v2.8.3, asdf: 2.7.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="i18n (v1.12.0, asdf: 2.7.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="json (v2.6.2, asdf: 2.7.5) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="minitest (v5.16.2, asdf: 2.7.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="nanaimo (v0.3.0, asdf: 2.7.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="nap (v1.1.0, asdf: 2.7.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="netrc (v0.11.0, asdf: 2.7.5) [gem]" level="application" />
@@ -36,6 +35,7 @@
     <orderEntry type="library" scope="PROVIDED" name="rexml (v3.2.5, asdf: 2.7.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="thread_safe (v0.3.6, asdf: 2.7.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="typhoeus (v1.4.0, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tzinfo (v1.2.9, asdf: 2.7.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="xcodeproj (v1.22.0, asdf: 2.7.5) [gem]" level="application" />
   </component>
   <component name="RubyModuleProperties">
