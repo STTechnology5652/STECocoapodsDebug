@@ -3,13 +3,10 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/CocoaPods" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/CocoaPods-pod-sign" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/STPodTemplate" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/cocoapods-bin" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/cocoapods-core" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/cocoapods-libstcx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cocoapods-st-plugin-example" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/cocoapods-yk-pod-utility" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/cocoapods-yksign" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pod-template" vcs="Git" />
   </component>
 </project>
