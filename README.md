@@ -6,8 +6,7 @@ This project is a total repository of some sub projects.
 
 - [CocoaPods](https://github.com/CocoaPods/CocoaPods.git)
 - [cocoapods-bin](https://github.com/tripleCC/cocoapods-bin.git)
-- [cocoapods-libstcx](https://github.com/STTechnology5652/cocoapods-libstcx.git)
-- [STPodTemplate](https://github.com/STTechnology5652/STPodTemplate.git)
+- [cocoapods-core](https://github.com/CocoaPods/Core.git)
 - [pod-template](https://github.com/CocoaPods/pod-template.git)
 - [cocoapods-yk-pod-utility](https://github.com/stephen5652/cocoapods-yk-pod-utility.git)
 

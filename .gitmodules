@@ -4,12 +4,6 @@
 [submodule "cocoapods-bin"]
 	path = cocoapods-bin
 	url = https://github.com/tripleCC/cocoapods-bin.git
-[submodule "cocoapods-libstcx"]
-	path = cocoapods-libstcx
-	url = https://github.com/STTechnology5652/cocoapods-libstcx.git
-[submodule "STPodTemplate"]
-	path = STPodTemplate
-	url = https://github.com/STTechnology5652/STPodTemplate.git
 [submodule "pod-template"]
 	path = pod-template
 	url = https://github.com/CocoaPods/pod-template.git
@@ -19,9 +13,3 @@
 [submodule "cocoapods-core"]
 	path = cocoapods-core
 	url = https://github.com/CocoaPods/Core.git
-[submodule "CocoaPods-pod-sign"]
-	path = CocoaPods-pod-sign
-	url = https://github.com/1677/CocoaPods-pod-sign.git
-[submodule "cocoapods-yksign"]
-	path = cocoapods-yksign
-	url = https://github.com/stephen5652/cocoapods-yksign.git
