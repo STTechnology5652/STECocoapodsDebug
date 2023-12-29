@@ -14,6 +14,11 @@ This project is a total repository of some sub projects.
 
 本仓库用于协助开发 cocoapdods 插件， 已关联了用于调试cocoapods的必须仓库，以及本人自己开发的cocoapods插件。
 
+关联文档：
+
+- [cocapods-plugin 介绍与开发](docs/PluginCreate.md) 
+- [cocoapods 原理]()
+
 ## Usage
 
 - install ruby

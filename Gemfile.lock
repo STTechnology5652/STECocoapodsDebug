@@ -21,11 +21,6 @@ PATH
       xcodeproj (>= 1.21.0, < 2.0)
 
 PATH
-  remote: Cocoapods-pod-sign
-  specs:
-    cocoapods-pod-sign (1.3.0)
-
-PATH
   remote: cocoapods-bin
   specs:
     cocoapods-bin (0.1.30)
@@ -48,21 +43,11 @@ PATH
       typhoeus (~> 1.0)
 
 PATH
-  remote: cocoapods-libstcx
-  specs:
-    cocoapods-libstcx (0.0.4)
-
-PATH
   remote: cocoapods-yk-pod-utility
   specs:
     cocoapods-ykutility (0.0.15)
       git
       jazzy
-
-PATH
-  remote: cocoapods-yksign
-  specs:
-    cocoapods-yksign (0.0.1)
 
 GEM
   remote: https://rubygems.org/
@@ -166,9 +151,6 @@ DEPENDENCIES
   cocoapods!
   cocoapods-bin!
   cocoapods-core!
-  cocoapods-libstcx!
-  cocoapods-pod-sign!
-  cocoapods-yksign!
   cocoapods-ykutility!
   debase
   ruby-debug-ide
