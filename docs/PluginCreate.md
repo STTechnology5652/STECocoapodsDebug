@@ -19,7 +19,6 @@ gem search cocoapods --verbose
 
   cocoapods是基于ruby语言开发的，对于ruby语言的开发工具，最专业的是rubymine。所以需要在电脑安装rubymine开发ide。
 
-
 - ruby版本管理
 
   由于Mac系统自带的ruby版本未必和cocoapods使用的ruby版本相同；所以需要借助ruby版本管理工具来指定对应的ruby版本来开发cocoapods插件。<br>
@@ -28,14 +27,16 @@ gem search cocoapods --verbose
 
 ## cocoapods-plugin 开发
 
-插件的创建与开发，没有想象中的那么困难。 cococapods 提供了脚手架，可以快速创建插件模板，我们需要做的仅仅是把自己需要的功能开发出来，然后发不到gem，就可以了。
+插件的创建与开发，没有想象中的那么困难。 cococapods 提供了脚手架，可以快速创建插件模板，我们需要做的仅仅是把自己需要的功能开发出来，然后发布到gem，就可以了。
 
-可以氛围以下步骤：
+可以分为以下步骤：
 
 > - 创建工程
-> - 创建action
+> - 调试自己的plugin
+> - 创建command
 > - 定义参数
-> - 编写自己的action
+> - 编写自己的command
+> - 发布自己的plugin
 
 - 创建工程
 
@@ -49,9 +50,23 @@ gem search cocoapods --verbose
 
   ![](pluginsDocAssets/create-1.jpg)
 
-- 创建action
+- 调试自己的plugin
 
-  对于cocoapods来说，每个指令都是一个action。模板工程中，自动定义了一个action，如果自己的插件有多个指令，就需要自己创建action。这里有个技巧，就是将已有的action复制一份，重新命名，并修改类名，即可创建新的action。
+  创建的plugin之后，需要和cocoapods原项目关联起来。具体步骤如下：
+
+  > - 关联plugin： 在根目录的gemfile中依赖自己的项目；
+  > - 执行install： bundle install
+  > - 编写测试用例： 即在rubymine中新建gemcommand，编写一个自己plugin的测试用例； 常规操作是，编写一个help的用例，保证自己的plugin能够断点调试。
+
+  效果如图：
+  ![](pluginsDocAssets/plugin-4.jpg)
+
+  debug 效果如图：
+  ![](pluginsDocAssets/plugin-5.jpg)
+
+- 创建command
+
+  对于cocoapods来说，每个指令都是一个command。模板工程中，自动定义了一个command，如果自己的插件有多个指令，就需要自己创建command。这里有个技巧，就是将已有的command复制一份，重新命名，并修改类名，即可创建新的command。
 
   工程结构如下：
   ![](pluginsDocAssets/create-3.jpg)
@@ -60,7 +75,7 @@ gem search cocoapods --verbose
 
   平时使用pod指令的时候，都是附带参数的。这些参数是通过在cocoapods中定义声明，来实现的。
 
-  以下为cocoapods-ykutility create action的定义：
+  以下为cocoapods-ykutility create command的定义：
 
   ```ruby
   # frozen_string_literal: true
@@ -132,13 +147,48 @@ gem search cocoapods --verbose
   编译后产物，形式如下：
   ![](pluginsDocAssets/create-2.jpg)
 
-- 编写自己的action
+- 编写自己的command
   定义了参数后，就可以编写自己的功能代码。
   cocoapods是面向对象的高级语言。在创建组件之初，就已经想好了自己要实现的功能。此时只需要通过ruby语言，将自己的需求在run方法中实现出来。
 
   ```ruby
-
   def run
     puts("create pod run")
   end
   ````
+
+- 发布自己的plugin
+
+  plugin开发完成之后，是为了发布出去，便于使用的。一般来说，都会发布到gem源中。
+  plugin的发布，需要使用[rake](https://github.com/ruby/rake.git)。步骤如下：
+
+    - rake build
+
+      可以通过rake buile，编译自己的plugin，然后使用gem install 安装到本机电脑来测试功能是否和自己本机的环境相匹配。这一步不是必需，但是执行了，可以更容易发现兼容性问题。
+      指令：
+
+      > ```shell
+      > rake build
+      > ```
+      >
+      > ```shell
+      > gem install pkg/XXXX.gem
+      > ```
+
+      rake build 的效果如图：
+      会在pkg目录下创建对应的gem文件。
+
+      ![](pluginsDocAssets/plugin-3.jpg)
+
+    - rake release
+
+      plugin开发完并验证没问题之后，就可以发不到[gem org](https://rubygems.org/)。发布指令为 rake release
+
+      rake 会自动根据gemspec中定义的version，创建对应的tag，并自动编译项目，将编译后的gem包推送到gem source；
+      同时在git仓库创建对应的tag，并推送到远端git仓库。
+
+    - 安装发布后的plugin
+
+      plugin发布后，自己的邮箱是会收到[gem org](https://rubygems.org/)的邮件的。这时候，在gem org就可以搜索到plugin，以及其所有版本。如图：
+
+      ![](pluginsDocAssets/plugin-2.jpg)
