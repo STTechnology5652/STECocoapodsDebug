@@ -4,10 +4,13 @@
     <shared />
   </component>
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$/../../cocoapods-bin" />
+    <content url="file://$MODULE_DIR$/../../cocoapods-bin">
+      <excludeFolder url="file://$MODULE_DIR$/../../cocoapods-bin/vendor/bundle/cache" />
+    </content>
     <orderEntry type="jdk" jdkName="asdf: 2.7.5" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="PROVIDED" name="atomos (v0.1.3, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.17.3, asdf: 2.7.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="cocoapods-plugins (v1.0.0, asdf: 2.7.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="colored2 (v3.1.2, asdf: 2.7.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="escape (v0.0.4, asdf: 2.7.5) [gem]" level="application" />
@@ -16,6 +19,34 @@
     <orderEntry type="library" scope="PROVIDED" name="gh_inspector (v1.1.3, asdf: 2.7.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="nap (v1.1.0, asdf: 2.7.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="netrc (v0.11.0, asdf: 2.7.5) [gem]" level="application" />
+  </component>
+  <component name="RakeTasksCache-v2">
+    <option name="myRootTask">
+      <RakeTaskImpl id="rake">
+        <subtasks>
+          <RakeTaskImpl description="Build cocoapods-bin-0.1.30.gem into the pkg directory" fullCommand="build" id="build" />
+          <RakeTaskImpl description="Remove any temporary products" fullCommand="clean" id="clean" />
+          <RakeTaskImpl description="Remove any generated files" fullCommand="clobber" id="clobber" />
+          <RakeTaskImpl description="Build and install cocoapods-bin-0.1.30.gem into system gems" fullCommand="install" id="install" />
+          <RakeTaskImpl id="install">
+            <subtasks>
+              <RakeTaskImpl description="Build and install cocoapods-bin-0.1.30.gem into system gems without network access" fullCommand="install:local" id="local" />
+            </subtasks>
+          </RakeTaskImpl>
+          <RakeTaskImpl description="Create tag v0.1.30 and build and push cocoapods-bin-0.1.30.gem to rubygems.org" fullCommand="release[remote]" id="release[remote]" />
+          <RakeTaskImpl description="Runs all the specs" fullCommand="specs" id="specs" />
+          <RakeTaskImpl description="" fullCommand="default" id="default" />
+          <RakeTaskImpl description="" fullCommand="release" id="release" />
+          <RakeTaskImpl id="release">
+            <subtasks>
+              <RakeTaskImpl description="" fullCommand="release:guard_clean" id="guard_clean" />
+              <RakeTaskImpl description="" fullCommand="release:rubygem_push" id="rubygem_push" />
+              <RakeTaskImpl description="" fullCommand="release:source_control_push" id="source_control_push" />
+            </subtasks>
+          </RakeTaskImpl>
+        </subtasks>
+      </RakeTaskImpl>
+    </option>
   </component>
   <component name="RubyModuleProperties">
     <option name="autoCreated" value="true" />

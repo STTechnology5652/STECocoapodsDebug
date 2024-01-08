@@ -6,4 +6,6 @@ gem 'cocoapods-ykutility', path: './cocoapods-yk-pod-utility'
 group :debug do
   gem 'ruby-debug-ide'
   gem 'debase'
+  gem 'activesupport', '~> 7.0.8'
+
 end

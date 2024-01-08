@@ -1,0 +1,16 @@
+PODS:
+  - YKBusinessModule (0.0.1)
+
+DEPENDENCIES:
+  - YKBusinessModule (from `../`)
+
+EXTERNAL SOURCES:
+  YKBusinessModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YKBusinessModule: 016cff5204aac02e6b00629d04cc18b960005a23
+
+PODFILE CHECKSUM: f46ca4c18c9a1c7ebbcefaddb9ee2d2d89b08137
+
+COCOAPODS: 1.11.3

@@ -7,12 +7,1005 @@
     <content url="file://$MODULE_DIR$/../../cocoapods-core" />
     <orderEntry type="jdk" jdkName="asdf: 2.7.5" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="algoliasearch (v1.27.5, asdf: 2.7.5) [gem]" level="application" />
+    <orderEntry type="module-library">
+      <library name="activesupport (v6.1.7.1) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/activesupport-6.1.7.1/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/activesupport-6.1.7.1/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="addressable (v2.8.0) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/addressable-2.8.0/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/addressable-2.8.0/data" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/addressable-2.8.0/spec" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/addressable-2.8.0/tasks" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/addressable-2.8.0/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/addressable-2.8.0/data" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/addressable-2.8.0/spec" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/addressable-2.8.0/tasks" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/addressable-2.8.0/data" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/addressable-2.8.0/spec" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/addressable-2.8.0/tasks" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="algoliasearch (v1.27.5) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/algoliasearch-1.27.5/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/algoliasearch-1.27.5/spec" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/algoliasearch-1.27.5/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/algoliasearch-1.27.5/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/algoliasearch-1.27.5/spec" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/algoliasearch-1.27.5/resources" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/algoliasearch-1.27.5/spec" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/algoliasearch-1.27.5/resources" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ast (v2.4.1) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/ast-2.4.1/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/ast-2.4.1/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="awesome_print (v1.8.0) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/awesome_print-1.8.0/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/awesome_print-1.8.0/spec" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/awesome_print-1.8.0/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/awesome_print-1.8.0/spec" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/awesome_print-1.8.0/spec" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bacon (v1.2.0) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/bacon-1.2.0/bin" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/bacon-1.2.0/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/bacon-1.2.0/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/bacon-1.2.0/bin" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/bacon-1.2.0/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/bacon-1.2.0/test" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/bacon-1.2.0/bin" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/bacon-1.2.0/test" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="coderay (v1.1.3) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/coderay-1.1.3/bin" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/coderay-1.1.3/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/coderay-1.1.3/bin" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/coderay-1.1.3/lib" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/coderay-1.1.3/bin" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="concurrent-ruby (v1.1.10) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/concurrent-ruby-1.1.10/ext" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/concurrent-ruby-1.1.10/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/concurrent-ruby-1.1.10/ext" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/concurrent-ruby-1.1.10/lib" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/concurrent-ruby-1.1.10/ext" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="crack (v0.4.5) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/crack-0.4.5/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/crack-0.4.5/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ethon (v0.15.0) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/ethon-0.15.0/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/ethon-0.15.0/spec" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/ethon-0.15.0/.github" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/ethon-0.15.0/profile" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/ethon-0.15.0/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/ethon-0.15.0/spec" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/ethon-0.15.0/.github" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/ethon-0.15.0/profile" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/ethon-0.15.0/spec" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/ethon-0.15.0/.github" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/ethon-0.15.0/profile" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ffi (v1.15.5) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.5/ext" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.5/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.5/rakelib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.5/samples" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.5/ext" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.5/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.5/rakelib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.5/samples" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.5/ext" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.5/rakelib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.5/samples" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fuzzy_match (v2.0.4) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/fuzzy_match-2.0.4/bin" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/fuzzy_match-2.0.4/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/fuzzy_match-2.0.4/spec" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/fuzzy_match-2.0.4/benchmark" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/fuzzy_match-2.0.4/bin" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/fuzzy_match-2.0.4/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/fuzzy_match-2.0.4/spec" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/fuzzy_match-2.0.4/benchmark" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/fuzzy_match-2.0.4/bin" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/fuzzy_match-2.0.4/spec" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/fuzzy_match-2.0.4/benchmark" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hashdiff (v1.0.1) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/hashdiff-1.0.1/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/hashdiff-1.0.1/spec" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/hashdiff-1.0.1/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/hashdiff-1.0.1/spec" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/hashdiff-1.0.1/spec" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpclient (v2.8.3) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/httpclient-2.8.3/bin" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/httpclient-2.8.3/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/httpclient-2.8.3/test" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/httpclient-2.8.3/sample" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/httpclient-2.8.3/bin" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/httpclient-2.8.3/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/httpclient-2.8.3/test" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/httpclient-2.8.3/sample" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/httpclient-2.8.3/bin" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/httpclient-2.8.3/test" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/httpclient-2.8.3/sample" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="i18n (v1.12.0) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/i18n-1.12.0/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/i18n-1.12.0/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="json (v2.6.1) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/lib" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="kicker (v3.0.0) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/kicker-3.0.0/bin" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/kicker-3.0.0/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/kicker-3.0.0/bin" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/kicker-3.0.0/lib" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/kicker-3.0.0/bin" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="listen (v1.3.1) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/listen-1.3.1/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/listen-1.3.1/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="metaclass (v0.0.4) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/metaclass-0.0.4/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/metaclass-0.0.4/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/metaclass-0.0.4/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/metaclass-0.0.4/test" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/metaclass-0.0.4/test" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="method_source (v1.0.0) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/method_source-1.0.0/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/method_source-1.0.0/spec" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/method_source-1.0.0/.circleci" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/method_source-1.0.0/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/method_source-1.0.0/spec" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/method_source-1.0.0/.circleci" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/method_source-1.0.0/spec" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/method_source-1.0.0/.circleci" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="minitest (v5.17.0) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/minitest-5.17.0/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/minitest-5.17.0/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/minitest-5.17.0/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/minitest-5.17.0/test" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/minitest-5.17.0/test" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mocha (v1.4.0) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/mocha-1.4.0/bin" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/mocha-1.4.0/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/mocha-1.4.0/test" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/mocha-1.4.0/gemfiles" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/mocha-1.4.0/yard-templates" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/mocha-1.4.0/bin" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/mocha-1.4.0/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/mocha-1.4.0/test" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/mocha-1.4.0/gemfiles" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/mocha-1.4.0/yard-templates" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/mocha-1.4.0/bin" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/mocha-1.4.0/test" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/mocha-1.4.0/gemfiles" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/mocha-1.4.0/yard-templates" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mocha-on-bacon (v0.2.3) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/mocha-on-bacon-0.2.3/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/mocha-on-bacon-0.2.3/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="nap (v1.1.0) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/nap-1.1.0/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/nap-1.1.0/support" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/nap-1.1.0/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/nap-1.1.0/support" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/nap-1.1.0/support" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="netrc (v0.11.0) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/netrc-0.11.0/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/netrc-0.11.0/data" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/netrc-0.11.0/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/netrc-0.11.0/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/netrc-0.11.0/data" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/netrc-0.11.0/test" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/netrc-0.11.0/data" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/netrc-0.11.0/test" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="notify (v0.5.2) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/notify-0.5.2/bin" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/notify-0.5.2/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/notify-0.5.2/bin" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/notify-0.5.2/lib" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/notify-0.5.2/bin" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="parallel (v1.20.1) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/parallel-1.20.1/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/parallel-1.20.1/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="parser (v3.0.0.0) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/parser-3.0.0.0/bin" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/parser-3.0.0.0/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/parser-3.0.0.0/bin" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/parser-3.0.0.0/lib" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/parser-3.0.0.0/bin" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="prettybacon (v0.0.2) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/prettybacon-0.0.2/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/prettybacon-0.0.2/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="pry (v0.13.1) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/pry-0.13.1/bin" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/pry-0.13.1/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/pry-0.13.1/bin" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/pry-0.13.1/lib" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/pry-0.13.1/bin" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="public_suffix (v4.0.6) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/public_suffix-4.0.6/bin" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/public_suffix-4.0.6/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/public_suffix-4.0.6/data" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/public_suffix-4.0.6/test" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/public_suffix-4.0.6/.github" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/public_suffix-4.0.6/bin" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/public_suffix-4.0.6/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/public_suffix-4.0.6/data" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/public_suffix-4.0.6/test" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/public_suffix-4.0.6/.github" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/public_suffix-4.0.6/bin" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/public_suffix-4.0.6/data" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/public_suffix-4.0.6/test" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/public_suffix-4.0.6/.github" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="rainbow (v3.0.0) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rainbow-3.0.0/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rainbow-3.0.0/spec" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rainbow-3.0.0/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rainbow-3.0.0/spec" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rainbow-3.0.0/spec" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="rake (v12.3.3) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rake-12.3.3/bin" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rake-12.3.3/doc" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rake-12.3.3/exe" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rake-12.3.3/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rake-12.3.3/bin" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rake-12.3.3/doc" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rake-12.3.3/exe" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rake-12.3.3/lib" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rake-12.3.3/bin" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rake-12.3.3/doc" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rake-12.3.3/exe" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="rb-fsevent (v0.10.4) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rb-fsevent-0.10.4/bin" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rb-fsevent-0.10.4/ext" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rb-fsevent-0.10.4/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rb-fsevent-0.10.4/bin" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rb-fsevent-0.10.4/ext" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rb-fsevent-0.10.4/lib" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rb-fsevent-0.10.4/bin" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rb-fsevent-0.10.4/ext" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="rb-inotify (v0.10.1) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rb-inotify-0.10.1/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rb-inotify-0.10.1/spec" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rb-inotify-0.10.1/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rb-inotify-0.10.1/spec" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rb-inotify-0.10.1/spec" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="rb-kqueue (v0.2.5) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rb-kqueue-0.2.5/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rb-kqueue-0.2.5/spec" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rb-kqueue-0.2.5/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rb-kqueue-0.2.5/spec" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rb-kqueue-0.2.5/spec" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="regexp_parser (v2.0.3) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/regexp_parser-2.0.3/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/regexp_parser-2.0.3/spec" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/regexp_parser-2.0.3/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/regexp_parser-2.0.3/spec" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/regexp_parser-2.0.3/spec" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="rexml (v3.2.5) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rexml-3.2.5/doc" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rexml-3.2.5/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rexml-3.2.5/doc" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rexml-3.2.5/lib" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rexml-3.2.5/doc" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="rubocop (v1.8.1) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rubocop-1.8.1/exe" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rubocop-1.8.1/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rubocop-1.8.1/assets" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rubocop-1.8.1/config" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rubocop-1.8.1/exe" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rubocop-1.8.1/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rubocop-1.8.1/assets" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rubocop-1.8.1/config" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rubocop-1.8.1/exe" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rubocop-1.8.1/assets" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="rubocop-ast (v1.4.0) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rubocop-ast-1.4.0/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rubocop-ast-1.4.0/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="rubocop-performance (v1.9.2) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rubocop-performance-1.9.2/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rubocop-performance-1.9.2/config" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rubocop-performance-1.9.2/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/rubocop-performance-1.9.2/config" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ruby-progressbar (v1.11.0) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/ruby-progressbar-1.11.0/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/ruby-progressbar-1.11.0/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="typhoeus (v1.4.0) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/typhoeus-1.4.0/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/typhoeus-1.4.0/perf" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/typhoeus-1.4.0/spec" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/typhoeus-1.4.0/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/typhoeus-1.4.0/perf" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/typhoeus-1.4.0/spec" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/typhoeus-1.4.0/perf" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/typhoeus-1.4.0/spec" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tzinfo (v2.0.5) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/tzinfo-2.0.5/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/tzinfo-2.0.5/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="unicode-display_width (v2.0.0) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/unicode-display_width-2.0.0/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/unicode-display_width-2.0.0/data" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/unicode-display_width-2.0.0/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/unicode-display_width-2.0.0/data" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/unicode-display_width-2.0.0/data" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="vcr (v6.0.0) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/vcr-6.0.0/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/vcr-6.0.0/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="webmock (v3.11.1) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/webmock-3.11.1/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/webmock-3.11.1/spec" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/webmock-3.11.1/test" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/webmock-3.11.1/minitest" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/webmock-3.11.1/lib" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/webmock-3.11.1/spec" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/webmock-3.11.1/test" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/webmock-3.11.1/minitest" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/webmock-3.11.1/spec" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/webmock-3.11.1/test" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/webmock-3.11.1/minitest" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="webrick (v1.7.0) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/webrick-1.7.0/bin" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/webrick-1.7.0/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/webrick-1.7.0/bin" />
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/webrick-1.7.0/lib" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/webrick-1.7.0/bin" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="zeitwerk (v2.6.6) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/zeitwerk-2.6.6/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../cocoapods-core/vendor/bundle/ruby/2.7.0/gems/zeitwerk-2.6.6/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
     <orderEntry type="library" scope="PROVIDED" name="bundler (v2.3.9, asdf: 2.7.5) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="fuzzy_match (v2.0.4, asdf: 2.7.5) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="httpclient (v2.8.3, asdf: 2.7.5) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="nap (v1.1.0, asdf: 2.7.5) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="netrc (v0.11.0, asdf: 2.7.5) [gem]" level="application" />
+  </component>
+  <component name="RakeTasksCache-v2">
+    <option name="myRootTask">
+      <RakeTaskImpl id="rake">
+        <subtasks>
+          <RakeTaskImpl description="Initializes your working copy to run the specs" fullCommand="bootstrap" id="bootstrap" />
+          <RakeTaskImpl description="Build cocoapods-core-1.11.3.gem into the pkg directory" fullCommand="build" id="build" />
+          <RakeTaskImpl id="build">
+            <subtasks>
+              <RakeTaskImpl description="Generate SHA512 checksum if cocoapods-core-1.11.3.gem into the checksums directory" fullCommand="build:checksum" id="checksum" />
+            </subtasks>
+          </RakeTaskImpl>
+          <RakeTaskImpl description="Remove any temporary products" fullCommand="clean" id="clean" />
+          <RakeTaskImpl description="Remove any generated files" fullCommand="clobber" id="clobber" />
+          <RakeTaskImpl description="Generates &amp; opens the coverage report" fullCommand="coverage" id="coverage" />
+          <RakeTaskImpl description="Build and install cocoapods-core-1.11.3.gem into system gems" fullCommand="install" id="install" />
+          <RakeTaskImpl id="install">
+            <subtasks>
+              <RakeTaskImpl description="Build and install cocoapods-core-1.11.3.gem into system gems without network access" fullCommand="install:local" id="local" />
+            </subtasks>
+          </RakeTaskImpl>
+          <RakeTaskImpl description="Create tag v1.11.3 and build and push cocoapods-core-1.11.3.gem to rubygems.org" fullCommand="release[remote]" id="release[remote]" />
+          <RakeTaskImpl description="Run RuboCop" fullCommand="rubocop" id="rubocop" />
+          <RakeTaskImpl id="rubocop">
+            <subtasks>
+              <RakeTaskImpl description="Auto-correct RuboCop offenses" fullCommand="rubocop:auto_correct" id="auto_correct" />
+            </subtasks>
+          </RakeTaskImpl>
+          <RakeTaskImpl description="Run all specs" fullCommand="spec" id="spec" />
+          <RakeTaskImpl id="spec">
+            <subtasks>
+              <RakeTaskImpl description="Automatically run specs for updated files" fullCommand="spec:kick" id="kick" />
+              <RakeTaskImpl description="" fullCommand="spec:all" id="all" />
+            </subtasks>
+          </RakeTaskImpl>
+          <RakeTaskImpl description="" fullCommand="default" id="default" />
+          <RakeTaskImpl description="" fullCommand="release" id="release" />
+          <RakeTaskImpl id="release">
+            <subtasks>
+              <RakeTaskImpl description="" fullCommand="release:guard_clean" id="guard_clean" />
+              <RakeTaskImpl description="" fullCommand="release:rubygem_push" id="rubygem_push" />
+              <RakeTaskImpl description="" fullCommand="release:source_control_push" id="source_control_push" />
+            </subtasks>
+          </RakeTaskImpl>
+          <RakeTaskImpl id="travis">
+            <subtasks>
+              <RakeTaskImpl description="" fullCommand="travis:setup" id="setup" />
+            </subtasks>
+          </RakeTaskImpl>
+        </subtasks>
+      </RakeTaskImpl>
+    </option>
   </component>
   <component name="RubyModuleProperties">
     <option name="autoCreated" value="true" />
